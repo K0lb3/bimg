@@ -1,0 +1,6 @@
+[submodule "master"]
+	path = master
+	url = https://github.com/bkaradzic/bx.git
+[submodule "bx"]
+	path = bx
+	url = https://github.com/bkaradzic/bx.git
